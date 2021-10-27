@@ -6,6 +6,9 @@
 ## Application Demonstration
 https://watch.screencastify.com/v/V7eaNlyVCjTQbZw1XhwC
 
+## Link to GitHub code
+https://github.com/krysmit/ecommerce-back-end
+
 ## Usage
 
 
